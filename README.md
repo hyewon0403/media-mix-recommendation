@@ -20,5 +20,5 @@
 - 분석 모형: Multi-output regression
 
 ### 파일 링크
-[#1. pandas 활용 데이터 전처리 및 seaborn 활용 데이터 시각화](https://github.com/hyewon0403/media-mix-recommendation/blob/master/media_mix_recommendation_eda.ipynb)\
-[#2. sklearn 활용 추천 모형 구축](https://github.com/hyewon0403/media-mix-recommendation/blob/master/media_mix_recommendation_analysis.ipynb)
+[#1. pandas를 활용한 데이터 전처리 및 seaborn를 활용한 데이터 시각화](https://github.com/hyewon0403/media-mix-recommendation/blob/master/media_mix_recommendation_eda.ipynb)\
+[#2. sklearn를 활용한 광고 예산안 최적화 모형 구축](https://github.com/hyewon0403/media-mix-recommendation/blob/master/media_mix_recommendation_analysis.ipynb)
